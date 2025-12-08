@@ -1,7 +1,7 @@
 ###################################
 # Prerequisites
 
-# Update the list of packages ->Actualizar la lista de paquetes.Actualiza la lista de paquetes disponibles desde los repositorios configurados en el sistema.
+# Update the list of packages ->Actualizar la lista de paquetes.
 sudo apt-get update
 
 # Install pre-requisite packages. ->Instalar los paquetes prerequisitos
